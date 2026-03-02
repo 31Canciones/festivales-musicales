@@ -1,0 +1,1108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 91,
+        "X": -7.56929,
+        "Y": 43.00395,
+        "NAME": "Caudal Fest",
+        "VALUE": 32000
+      },
+      "geometry": {
+        "coordinates": [-7.568357661686885, 43.00353034558037],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "X": -2.4307,
+        "Y": 42.47187,
+        "FESTIVAL": "Actual",
+        "AFORO": 4000
+      },
+      "geometry": { "coordinates": [-2.4307, 42.47187], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "X": 2.1687,
+        "Y": 41.43108,
+        "FESTIVAL": "Minifestival de música independent de Barcelona",
+        "AFORO": 300
+      },
+      "geometry": { "coordinates": [2.1687, 41.43108], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "X": -3.70985,
+        "Y": 40.43866,
+        "FESTIVAL": "Madrid Popfest",
+        "AFORO": 300
+      },
+      "geometry": { "coordinates": [-3.70985, 40.43866], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "X": 0.04939,
+        "Y": 40.05017,
+        "FESTIVAL": "SANSAN Festival",
+        "AFORO": 45000
+      },
+      "geometry": { "coordinates": [0.04939, 40.05017], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "X": -3.699978,
+        "Y": 40.40616,
+        "FESTIVAL": "Electrónica en abril",
+        "AFORO": 500
+      },
+      "geometry": { "coordinates": [-3.699978, 40.40616], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "X": -6.00793,
+        "Y": 37.39879,
+        "FESTIVAL": "Interestelar",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [-6.00793, 37.39879], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "X": -5.61171,
+        "Y": 43.52477,
+        "FESTIVAL": "LEV",
+        "AFORO": 1200
+      },
+      "geometry": { "coordinates": [-5.61171, 43.52477], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "X": -3.68445,
+        "Y": 40.36901,
+        "FESTIVAL": "Tomavistas",
+        "AFORO": 8000
+      },
+      "geometry": { "coordinates": [-3.68445, 40.36901], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 9,
+        "X": -4.73967,
+        "Y": 41.63136,
+        "FESTIVAL": "Véral",
+        "AFORO": "Ilimitado"
+      },
+      "geometry": { "coordinates": [-4.73967, 41.63136], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 10,
+        "X": -0.5069,
+        "Y": 38.37725,
+        "FESTIVAL": "Spring Festival",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-0.5069, 38.37725], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 11,
+        "X": -6.37163,
+        "Y": 39.47543,
+        "FESTIVAL": "WOMAD",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-6.37163, 39.47543], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 12,
+        "X": -4.04761,
+        "Y": 39.8712,
+        "FESTIVAL": "Toledo Beat Festival",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [-4.04761, 39.8712], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 13,
+        "X": -2.60979,
+        "Y": 39.27324,
+        "FESTIVAL": "Viña Rock",
+        "AFORO": 65000
+      },
+      "geometry": { "coordinates": [-2.60979, 39.27324], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 14,
+        "X": -1.10998,
+        "Y": 37.9841,
+        "FESTIVAL": "WARM UP",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-1.10998, 37.9841], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 15,
+        "X": -4.7561,
+        "Y": 41.59617,
+        "FESTIVAL": "Conexión Valladolid",
+        "AFORO": 10000
+      },
+      "geometry": { "coordinates": [-4.7561, 41.59617], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 16,
+        "X": 2.51929,
+        "Y": 39.50713,
+        "FESTIVAL": "Mallorca Live Festival",
+        "AFORO": 28000
+      },
+      "geometry": { "coordinates": [2.51929, 39.50713], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 17,
+        "X": -13.71787,
+        "Y": 28.9828,
+        "FESTIVAL": "Sonidos Líquidos",
+        "AFORO": 3000
+      },
+      "geometry": { "coordinates": [-13.71787, 28.9828], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 18,
+        "X": -0.35046,
+        "Y": 39.45508,
+        "FESTIVAL": "Festival de les Arts",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [-0.35046, 39.45508], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 19,
+        "X": 2.15052,
+        "Y": 41.37413,
+        "FESTIVAL": "Sónar",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [2.15052, 41.37413], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 20,
+        "X": -3.68482,
+        "Y": 40.36911,
+        "FESTIVAL": "Kalorama",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [-3.68482, 40.36911], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 21,
+        "X": -2.68507,
+        "Y": 42.83416,
+        "FESTIVAL": "Azkena Rock",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [-2.68507, 42.83416], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 22,
+        "X": -8.50051,
+        "Y": 42.88574,
+        "FESTIVAL": "O Son Do Camiño",
+        "AFORO": 37800
+      },
+      "geometry": { "coordinates": [-8.50051, 42.88574], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 23,
+        "X": 2.22466,
+        "Y": 41.41155,
+        "FESTIVAL": "Primavera Sound",
+        "AFORO": 80000
+      },
+      "geometry": { "coordinates": [2.22466, 41.41155], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 24,
+        "X": 2.22596,
+        "Y": 41.41163,
+        "FESTIVAL": "Share Festival",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [2.22596, 41.41163], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 25,
+        "X": -2.15689,
+        "Y": 39.20155,
+        "FESTIVAL": "Festival de los Sentidos",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [-2.15689, 39.20155], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 26,
+        "X": -4.54184,
+        "Y": 42.01096,
+        "FESTIVAL": "Palencia Sonora",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [-4.54184, 42.01096], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 27,
+        "X": -5.63747,
+        "Y": 43.53789,
+        "FESTIVAL": "Metrópoli Gijón",
+        "AFORO": 50000
+      },
+      "geometry": { "coordinates": [-5.63747, 43.53789], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 28,
+        "X": -5.96689,
+        "Y": 36.25549,
+        "FESTIVAL": "Jazz Vejer",
+        "AFORO": 1000
+      },
+      "geometry": { "coordinates": [-5.96689, 36.25549], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 29,
+        "X": -0.31649,
+        "Y": 42.75783,
+        "FESTIVAL": "Pirineos Sur",
+        "AFORO": 5500
+      },
+      "geometry": { "coordinates": [-0.31649, 42.75783], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 30,
+        "X": -0.97847,
+        "Y": 37.59801,
+        "FESTIVAL": "La Mar de Músicas",
+        "AFORO": 1400
+      },
+      "geometry": { "coordinates": [-0.97847, 37.59801], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 31,
+        "X": -8.65569,
+        "Y": 42.5907,
+        "FESTIVAL": "Festival PortAmérica",
+        "AFORO": 65000
+      },
+      "geometry": { "coordinates": [-8.65569, 42.5907], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 32,
+        "X": -7.09663,
+        "Y": 38.68282,
+        "FESTIVAL": "Contempopránea",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [-7.09663, 38.68282], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 33,
+        "X": 0.049,
+        "Y": 40.05,
+        "FESTIVAL": "FIB",
+        "AFORO": 53000
+      },
+      "geometry": { "coordinates": [0.049, 40.05], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 34,
+        "X": -1.95803,
+        "Y": 42.29731,
+        "FESTIVAL": "Holika Festival",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-1.95803, 42.29731], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 35,
+        "X": -7.59158,
+        "Y": 43.67646,
+        "FESTIVAL": "Resurrection Fest",
+        "AFORO": 30000
+      },
+      "geometry": { "coordinates": [-7.59158, 43.67646], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 36,
+        "X": 0.12367,
+        "Y": 41.54179,
+        "FESTIVAL": "Monegros",
+        "AFORO": 65000
+      },
+      "geometry": { "coordinates": [0.12367, 41.54179], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 37,
+        "X": -3.7121,
+        "Y": 40.32991,
+        "FESTIVAL": "MAD COOL",
+        "AFORO": 60000
+      },
+      "geometry": { "coordinates": [-3.7121, 40.32991], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 38,
+        "X": -15.45674,
+        "Y": 28.10059,
+        "FESTIVAL": "Granca Live Fest",
+        "AFORO": 50000
+      },
+      "geometry": { "coordinates": [-15.45674, 28.10059], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 39,
+        "X": -0.17058,
+        "Y": 38.95709,
+        "FESTIVAL": "Pirata Beach Festival",
+        "AFORO": 30000
+      },
+      "geometry": { "coordinates": [-0.17058, 38.95709], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 40,
+        "X": -8.62853,
+        "Y": 42.30765,
+        "FESTIVAL": "SINSAL San Simón",
+        "AFORO": 800
+      },
+      "geometry": { "coordinates": [-8.62853, 42.30765], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 41,
+        "X": -2.96416,
+        "Y": 43.25842,
+        "FESTIVAL": "Bilbao BBK Live",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [-2.96416, 43.25842], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 42,
+        "X": -1.9784,
+        "Y": 43.32466,
+        "FESTIVAL": "Donostiako Jazzaldia",
+        "AFORO": 1800
+      },
+      "geometry": { "coordinates": [-1.9784, 43.32466], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 43,
+        "X": -3.68396,
+        "Y": 40.36846,
+        "FESTIVAL": "Río Babel",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-3.68396, 40.36846], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 44,
+        "X": 1.71392,
+        "Y": 41.23986,
+        "FESTIVAL": "VIDA Festival",
+        "AFORO": 10000
+      },
+      "geometry": { "coordinates": [1.71392, 41.23986], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 45,
+        "X": 2.22648,
+        "Y": 41.41176,
+        "FESTIVAL": "Cruïlla",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [2.22648, 41.41176], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 46,
+        "X": -6.60708,
+        "Y": 42.55987,
+        "FESTIVAL": "Planeta Sound",
+        "AFORO": 13000
+      },
+      "geometry": { "coordinates": [-6.60708, 42.55987], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 47,
+        "X": -5.64042,
+        "Y": 43.53953,
+        "FESTIVAL": "Tsunami Xixón",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-5.64042, 43.53953], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 48,
+        "X": -5.31846,
+        "Y": 37.21483,
+        "FESTIVAL": "Reunión de Cante Jondo",
+        "AFORO": 1200
+      },
+      "geometry": { "coordinates": [-5.31846, 37.21483], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 49,
+        "X": -0.24376,
+        "Y": 39.15495,
+        "FESTIVAL": "Zevra Festival",
+        "AFORO": 50000
+      },
+      "geometry": { "coordinates": [-0.24376, 39.15495], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 50,
+        "X": -1.79439,
+        "Y": 37.23562,
+        "FESTIVAL": "Dreambeach Villaricos",
+        "AFORO": 55000
+      },
+      "geometry": { "coordinates": [-1.79439, 37.23562], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 51,
+        "X": -4.08855,
+        "Y": 36.74172,
+        "FESTIVAL": "Weekend Beach Festival",
+        "AFORO": 45000
+      },
+      "geometry": { "coordinates": [-4.08855, 36.74172], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 52,
+        "X": -3.00378,
+        "Y": 37.91257,
+        "FESTIVAL": "Bluescazorla",
+        "AFORO": 7000
+      },
+      "geometry": { "coordinates": [-3.00378, 37.91257], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 53,
+        "X": -0.13796,
+        "Y": 38.5463,
+        "FESTIVAL": "LOW Festival",
+        "AFORO": 30000
+      },
+      "geometry": { "coordinates": [-0.13796, 38.5463], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 54,
+        "X": -8.40314,
+        "Y": 43.3648,
+        "FESTIVAL": "Morriña Fest",
+        "AFORO": 31000
+      },
+      "geometry": { "coordinates": [-8.40314, 43.3648], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 55,
+        "X": -8.76705,
+        "Y": 42.60281,
+        "FESTIVAL": "Atlantic Fest",
+        "AFORO": 6000
+      },
+      "geometry": { "coordinates": [-8.76705, 42.60281], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 56,
+        "X": -16.24519,
+        "Y": 28.4681,
+        "FESTIVAL": "Cook Music Fest",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [-16.24519, 28.4681], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 57,
+        "X": 2.19928,
+        "Y": 41.45477,
+        "FESTIVAL": "Barcelona Rock Fest",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [2.19928, 41.45477], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 58,
+        "X": -7.85473,
+        "Y": 43.68344,
+        "FESTIVAL": "Festival de Ortigueira",
+        "AFORO": 30000
+      },
+      "geometry": { "coordinates": [-7.85473, 43.68344], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 59,
+        "X": -2.68521,
+        "Y": 42.83805,
+        "FESTIVAL": "Festival de Jazz de Vitoria",
+        "AFORO": 984
+      },
+      "geometry": { "coordinates": [-2.68521, 42.83805], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 60,
+        "X": -6.14109,
+        "Y": 36.6806,
+        "FESTIVAL": "Fiesta de la Bulería de Jerez",
+        "AFORO": 2500
+      },
+      "geometry": { "coordinates": [-6.14109, 36.6806], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 61,
+        "X": -0.87813,
+        "Y": 37.61742,
+        "FESTIVAL": "Festival del Cante de Las Minas",
+        "AFORO": 1000
+      },
+      "geometry": { "coordinates": [-0.87813, 37.61742], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 62,
+        "X": -5.17869,
+        "Y": 43.3974,
+        "FESTIVAL": "Aquasella",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [-5.17869, 43.3974], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 63,
+        "X": -5.17712,
+        "Y": 43.39762,
+        "FESTIVAL": "Riverland",
+        "AFORO": 40000
+      },
+      "geometry": { "coordinates": [-5.17712, 43.39762], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 64,
+        "X": 0.04885,
+        "Y": 40.0505,
+        "FESTIVAL": "Rototom Sunsplash",
+        "AFORO": 60000
+      },
+      "geometry": { "coordinates": [0.04885, 40.0505], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 65,
+        "X": -8.14198,
+        "Y": 43.03264,
+        "FESTIVAL": "Festival de la Luz",
+        "AFORO": 10000
+      },
+      "geometry": { "coordinates": [-8.14198, 43.03264], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 66,
+        "X": -8.78748,
+        "Y": 42.32378,
+        "FESTIVAL": "SonRías Baixas",
+        "AFORO": 11000
+      },
+      "geometry": { "coordinates": [-8.78748, 42.32378], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 67,
+        "X": -3.77206,
+        "Y": 43.46866,
+        "FESTIVAL": "Santander Music",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [-3.77206, 43.46866], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 68,
+        "X": -3.16355,
+        "Y": 40.62107,
+        "FESTIVAL": "Gigante Festival",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-3.16355, 40.62107], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 69,
+        "X": -5.6609,
+        "Y": 43.5405,
+        "FESTIVAL": "YE-YÉ Gijón",
+        "AFORO": 4000
+      },
+      "geometry": { "coordinates": [-5.6609, 43.5405], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 70,
+        "X": -1.64778,
+        "Y": 42.81862,
+        "FESTIVAL": "Flamenco On Fire",
+        "AFORO": 10000
+      },
+      "geometry": { "coordinates": [-1.64778, 42.81862], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 71,
+        "X": -0.17803,
+        "Y": 38.96595,
+        "FESTIVAL": "Dual Fest Mediterránea",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-0.17803, 38.96595], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 72,
+        "X": 2.22726,
+        "Y": 41.4111,
+        "FESTIVAL": "Brunch Electronik Festival",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [2.22726, 41.4111], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 73,
+        "X": -0.067,
+        "Y": 39.8644,
+        "FESTIVAL": "Arenal Sound",
+        "AFORO": 60000
+      },
+      "geometry": { "coordinates": [-0.067, 39.8644], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 74,
+        "X": -0.2447,
+        "Y": 39.15407,
+        "FESTIVAL": "Medusa Sunbeach",
+        "AFORO": 70000
+      },
+      "geometry": { "coordinates": [-0.2447, 39.15407], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 75,
+        "X": -5.94018,
+        "Y": 36.18572,
+        "FESTIVAL": "La Movida Sound",
+        "AFORO": 20000
+      },
+      "geometry": { "coordinates": [-5.94018, 36.18572], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 76,
+        "X": -8.41142,
+        "Y": 43.36886,
+        "FESTIVAL": "Noroeste",
+        "AFORO": "Ilimitado"
+      },
+      "geometry": { "coordinates": [-8.41142, 43.36886], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 77,
+        "X": -4.51179,
+        "Y": 36.62098,
+        "FESTIVAL": "Canela Party",
+        "AFORO": 4000
+      },
+      "geometry": { "coordinates": [-4.51179, 36.62098], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 78,
+        "X": -0.8464,
+        "Y": 38.63214,
+        "FESTIVAL": "Rabolagartija",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-0.8464, 38.63214], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 79,
+        "X": -3.70125,
+        "Y": 41.67134,
+        "FESTIVAL": "Sonorama",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-3.70125, 41.67134], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 80,
+        "X": -2.43025,
+        "Y": 36.83658,
+        "FESTIVAL": "Cooltural Fest",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-2.43025, 36.83658], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 81,
+        "X": 2.19152,
+        "Y": 41.43345,
+        "FESTIVAL": "BAM",
+        "AFORO": "Ilimitado"
+      },
+      "geometry": { "coordinates": [2.19152, 41.43345], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 82,
+        "X": -3.73037,
+        "Y": 40.44471,
+        "FESTIVAL": "DCODE",
+        "AFORO": 26000
+      },
+      "geometry": { "coordinates": [-3.73037, 40.44471], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 83,
+        "X": -3.65598,
+        "Y": 37.20072,
+        "FESTIVAL": "Granada Sound",
+        "AFORO": 25000
+      },
+      "geometry": { "coordinates": [-3.65598, 37.20072], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 84,
+        "X": -0.90508,
+        "Y": 41.66891,
+        "FESTIVAL": "Vive Latino",
+        "AFORO": 22000
+      },
+      "geometry": { "coordinates": [-0.90508, 41.66891], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 85,
+        "X": -8.40279,
+        "Y": 43.36624,
+        "FESTIVAL": "Recorda Fest",
+        "AFORO": 8500
+      },
+      "geometry": { "coordinates": [-8.40279, 43.36624], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 86,
+        "X": -16.81811,
+        "Y": 28.36629,
+        "FESTIVAL": "Festival Boreal",
+        "AFORO": 15000
+      },
+      "geometry": { "coordinates": [-16.81811, 28.36629], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 87,
+        "X": -2.93218,
+        "Y": 42.67934,
+        "FESTIVAL": "Ebrovisión",
+        "AFORO": 6500
+      },
+      "geometry": { "coordinates": [-2.93218, 42.67934], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 88,
+        "X": -3.47634,
+        "Y": 40.44825,
+        "FESTIVAL": "Brava Madrid",
+        "AFORO": 27000
+      },
+      "geometry": { "coordinates": [-3.47634, 40.44825], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 89,
+        "X": -3.4756,
+        "Y": 40.44843,
+        "FESTIVAL": "Madrid Salvaje",
+        "AFORO": 34000
+      },
+      "geometry": { "coordinates": [-3.4756, 40.44843], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 90,
+        "X": 2.25836,
+        "Y": 41.92943,
+        "FESTIVAL": "Mercat de Música Viva de Vic",
+        "AFORO": 10000
+      },
+      "geometry": { "coordinates": [2.25836, 41.92943], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 92,
+        "X": -0.40148,
+        "Y": 42.13203,
+        "FESTIVAL": "Periferias",
+        "AFORO": 782
+      },
+      "geometry": { "coordinates": [-0.40148, 42.13203], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 93,
+        "X": -2.98945,
+        "Y": 43.28808,
+        "FESTIVAL": "BIME Live",
+        "AFORO": 26000
+      },
+      "geometry": { "coordinates": [-2.98945, 43.28808], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 94,
+        "X": -16.2561,
+        "Y": 28.45767,
+        "FESTIVAL": "Keroxen",
+        "AFORO": 450
+      },
+      "geometry": { "coordinates": [-16.2561, 28.45767], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 95,
+        "X": 1.42834,
+        "Y": 38.70562,
+        "FESTIVAL": "Posidonia",
+        "AFORO": 300
+      },
+      "geometry": { "coordinates": [1.42834, 38.70562], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 96,
+        "X": -4.73995,
+        "Y": 41.63103,
+        "FESTIVAL": "Tónal",
+        "AFORO": 1400
+      },
+      "geometry": { "coordinates": [-4.73995, 41.63103], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 97,
+        "X": -0.11619,
+        "Y": 38.54831,
+        "FESTIVAL": "Funtastic Dracula Carnival",
+        "AFORO": 1500
+      },
+      "geometry": { "coordinates": [-0.11619, 38.54831], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 98,
+        "X": -6.22803,
+        "Y": 36.59536,
+        "FESTIVAL": "Monkey Week",
+        "AFORO": 4000
+      },
+      "geometry": { "coordinates": [-6.22803, 36.59536], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 99,
+        "X": -15.43062,
+        "Y": 28.14268,
+        "FESTIVAL": "WOMAD",
+        "AFORO": 35000
+      },
+      "geometry": { "coordinates": [-15.43062, 28.14268], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 100,
+        "X": -5.58301,
+        "Y": 42.60712,
+        "FESTIVAL": "Purple Weekend",
+        "AFORO": 2000
+      },
+      "geometry": { "coordinates": [-5.58301, 42.60712], "type": "Point" }
+    }
+  ]
+}
